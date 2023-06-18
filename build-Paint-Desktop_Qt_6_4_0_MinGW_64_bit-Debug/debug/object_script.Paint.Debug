@@ -1,0 +1,12 @@
+debug/paint.o
+debug/canvas.o
+debug/circle.o
+debug/freehand.o
+debug/graphobj.o
+debug/line.o
+debug/main.o
+debug/polygon.o
+debug/rectangle.o
+debug/scene.o
+debug/moc_paint.o
+debug/moc_canvas.o
